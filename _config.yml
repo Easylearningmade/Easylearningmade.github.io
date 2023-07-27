@@ -16,13 +16,14 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "LOGIN", icon: "LOGIN", sidebaricon: "LOGIN"}
-  - {file: "README.md", title: "HOME", icon: "HOME", sidebaricon: "HOME"}
+  - {file: "index.html", title: "LOGIN", icon: LOGIN, sidebaricon: LOGIN}
+  - {file: "README.md", title: "HOME", icon: HOME, sidebaricon: HOME}
   - {title: "SCHOOL/FACULTY"}
-  - {title: "CATEGORIES OF BOOKS"}
+  - {title: "BOOKS"}
   - {title: "Watch VIDEOS"}
   - {title: "SEARCH"}
   - {title: "DOWNLOADS"}
+  - {title: "ASK FOR HELP"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "julvancesonwa64@gmail.com"}
