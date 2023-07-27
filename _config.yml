@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "HOME", icon: "HOME"}
-  - {file: "README.md", title: "FACULTY", icon: "FACULTY"}
+  - {file: "index.html", title: "HOME", icon: "HOME", sidebaricon: "HOME"}
+  - {file: "README.md", title: "FACULTY", icon: "FACULTY", sidebaricon: "FACULTY"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "julvancesonwa64@gmail.com"}
