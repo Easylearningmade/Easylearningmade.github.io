@@ -31,7 +31,8 @@ Here is one proposed video on
 
 ## Learning made easy - Provide learners Needs
 ##### Learners are the central, focal point of your training program, and understanding what they expect to achieve at the end of your training program should be your main goal. Do they want to learn a new skill, like a coding language, or do they want training in specific business process?
-###### HERE WE PROVIDE LEARNERS NEED AND CREATE A COMMUNITY FOR LEARNERS AND EDUCATORS
+
+##### HERE WE PROVIDE LEARNERS NEED AND CREATE A COMMUNITY FOR LEARNERS AND EDUCATORS
 
 Your `_config.yml` could for example look like this:
 
