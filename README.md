@@ -1,6 +1,6 @@
 ---
 title: "WELCOME TO THE COMMUNITY 'LEARNING MADE EASY'"
-permalink: "/HOME/"
+permalink: "/title/"
 layout: page
 ---
 
