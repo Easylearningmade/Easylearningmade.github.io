@@ -1,49 +1,37 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "WELCOME TO THE COMMUNITY 'LEARNING MADE EASY'"
+permalink: "/HOME/"
 layout: page
 ---
 
-## Installation
+## SCHOOL/FACULTY
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+### -Faculty of Science
+### -School of Engineering
+### -Health Science
+### -Faculty of Arts
 
-## Features
+## BOOKS
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Get access to more than 30,000 educational Books.
+ - Get full course Handouts
+ - Get Audio books
+ - Download Books
+ - Downloaded Books
+ 
 
-## Based on
+## WAtch ViDEOS
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+#### Easy learning made platform provides every student with Educational videos. 
+Here is one proposed video on 
 
-## Installation (jekyll-remote-theme method)
+## The Future of remote learning
+##### The purpose of a successful eLearning platform is that it creates a robust learning experience that feels like a classroom experience, offering the traditional classroom characteristics (like instructor-student interaction, Q&As, discussion, games, collaborative projects, quizzes, etc.) but either online or through a device (e.g. a laptop, desktop, tablet or mobile.) These important learning environments are achieved through a learning platform’s features and tools that create the level of interaction and engagement students need.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
+## Learning made easy - Provide learners Needs
+##### Learners are the central, focal point of your training program, and understanding what they expect to achieve at the end of your training program should be your main goal. Do they want to learn a new skill, like a coding language, or do they want training in specific business process?
+###### HERE WE PROVIDE LEARNERS NEED AND CREATE A COMMUNITY FOR LEARNERS AND EDUCATORS
 
 Your `_config.yml` could for example look like this:
 
